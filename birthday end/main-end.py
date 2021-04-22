@@ -1,7 +1,8 @@
 import datetime as dt
 import pandas
-import smtplib
 import random
+import smtplib
+
 EMAIL = "Gray24.Bulby37@gmail.com"
 PASSWORD = "S3V4fZ(Tfo"
 today = dt.datetime.now()
